@@ -1,0 +1,15 @@
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/bin/Debug/net6.0/Task_00
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/bin/Debug/net6.0/Task_00.deps.json
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/bin/Debug/net6.0/Task_00.runtimeconfig.json
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/bin/Debug/net6.0/Task_00.dll
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/bin/Debug/net6.0/Task_00.pdb
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.csproj.AssemblyReference.cache
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.AssemblyInfoInputs.cache
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.AssemblyInfo.cs
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.csproj.CoreCompileInputs.cache
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.dll
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/refint/Task_00.dll
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.pdb
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/Task_00.genruntimeconfig.cache
+/Users/ms/Desktop/Git Tasks/C_sharp/LessonsC-/Task_00/obj/Debug/net6.0/ref/Task_00.dll
