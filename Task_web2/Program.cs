@@ -26,8 +26,8 @@ string result = maxDigit > 0 ? maxDigit.ToString() : "Числа равны";
 Console.WriteLine($"Наибольшая цифра числа {rndNum} => {result}");
 
 
-int num = new Random().Next(200, 700);
-int num1 = num / 100;
-int num3 = num % 10;
-int result = num1 * 10;
+// int num = new Random().Next(200, 700);
+// int num1 = num / 100;
+// int num3 = num % 10;
+// int result = num1 * 10;
 
