@@ -5,17 +5,21 @@
 
 Console.WriteLine("Введите целое число");
 int numN = Convert.ToInt32(Console.ReadLine());
-// int num = 1;
+int num = 1;
 
-for (int num = 1; num < numN; num++)
+while (num <= numN)
 {
-    if (num % 2 == 0);
-
-    Console.WriteLine($"Четные числа от 1 до" + numN + " : " + num);
-    
-    else if (num++);
-
+    if (num % 2 == 0)
+    {
+        Console.WriteLine("Четное число от 1 до " + numN + " : " + num);
+        num++;
     }
+    else num++;
+}
+
+
+
+
 
 
 
