@@ -16,7 +16,6 @@ Console.WriteLine("Его второе число = " + secondDigit);
 
 
 
-// Console.WriteLine($"Случайное трехзначное число  => {rndNum}");
 
 
 
