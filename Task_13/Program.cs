@@ -5,17 +5,11 @@
 // 32679 -> 6
 
 Console.WriteLine("Введите число");
-string rndNum = Convert.ToString(Console.ReadLine());
+string rndNum = Console.ReadLine();
 
-if (rndNum[2] == rndNum[2])
-{
-     Console.WriteLine(rndNum[2]);
-}
-else if (rndNum[1] == rndNum[1])
-{
-    Console.WriteLine("0");
-}
-
+if (rndNum[2] == rndNum[2]) 
+Console.WriteLine($"Третья цифра числа {rndNum} => {rndNum[2]}");
+else Console.WriteLine($"У числа {rndNum} нет третьей цифры");
 // НЕ смог сообразить какое условие сделать для проверки индексов string
 
 
